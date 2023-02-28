@@ -36,8 +36,16 @@ Now let's check how these operators work:
 
 ## How to test this project:
 
-### 1) Clone this repository
+### 1) Clone this repository into your terminal
+git clone https://github.com/RafaSoares1/minitalk.git
 
+### 2) Go to Minitalk directory and run:
+make or make all - for the mandatory part
+make bonus - for the bonus
+
+### 3) Run server to get its PID and use it on client side to send the message you want:
+./server<br />
+./client <server_PID> <message><br />
 
 ## Final Grade
 
