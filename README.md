@@ -47,6 +47,8 @@ make bonus - for the bonus
 ./server<br />
 ./client <server_PID> <message><br />
 
+![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/103336451/221919599-0831d882-7893-4ccd-acd7-3d306255517d.gif)
+
 ## Final Grade
 
 ![image](https://user-images.githubusercontent.com/103336451/221907397-798c3caf-9825-49d0-a039-c0c05b8f1695.png)
